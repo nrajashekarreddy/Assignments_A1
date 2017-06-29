@@ -1,0 +1,23 @@
+.....sshremote.sh.....
+>>UNDERSTANDING OF REQUIREMENT:3
+
+>>NAMING CONVENTION/COMMENTS/INDENTATION :2
+#could not understand the purpose of variables a , b , c
+#no comments added
+
+
+>>CODING:2
+#could not execute the value of 5th argument 
+#USAGE:usage incompletely mentioned 
+#could not understand how to access multiple hosts
+#program not restricted to only listing of files 
+
+>>USECASE COVERAGE:3
+#no default case added
+#all cases are not covered
+
+
+>>FUTURE SCOPE:4
+
+
+
